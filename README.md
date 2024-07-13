@@ -1,7 +1,7 @@
 # Hi, I am Naveen Bhatt 👋
 
 ## About Me
-An Aspiring DevOps Engineer, Combining theoretical expertise with hands-on DevOps practices along with practical project implementation. As a Cloud Engineer with more than 6 years of experience in IT & Healthcare transitioning into DevOps, combining expertise in VOIP & PRI Technology with a passion for optimizing cloud-based infrastructure and operations. 
+An Aspiring DevOps Engineer, Combining theoretical knowledge with hands-on DevOps practices along with practical project implementation. As a Cloud Engineer with more than 6 years of experience in IT & Healthcare transitioning into DevOps, combining expertise in VOIP & PRI Technology with a passion for optimizing cloud-based infrastructure and operations. 
 
 # 🛠️ Skills
 Version Control: Git, GitHub
